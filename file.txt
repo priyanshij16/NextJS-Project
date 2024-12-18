@@ -1,0 +1,10 @@
+1 setup the source code 
+2 next create backend model for User and message 
+3 
+
+packages :
+zod :zod library ts schema validation 
+setup all files for zod vaildation 
+
+// setup resend email with nextJS:
+NextAUth package
